@@ -1,0 +1,273 @@
+#nav-bar{
+    background-color: rgb(255, 255, 255);
+    height: 60px;
+    width: 100%;
+    border-radius: 5px;
+    position: fixed;
+    top: 0%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 1.5;
+    z-index: 1;
+    
+}
+#nav-bar a{
+    position: relative;
+    top: 10px;
+}
+
+#img1{
+    width: 100%;
+}
+
+.pic{
+    width: 100%;
+
+}
+
+#logo{
+    text-decoration: none;
+    color: black;
+    font-size: 1.5rem;
+    margin-left: 9px;
+    letter-spacing: 6px;
+   
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+.nav-text{
+margin-left: 860px;
+text-decoration: none;
+color: black;
+font-size: 1.5rem;
+letter-spacing: 8px;
+
+margin-right: 30px;
+
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.nav-text1{
+    text-decoration: none;
+    color: black;
+    font-size: 1.4rem;
+    margin-left: 20px;
+    margin-right: 18px;
+    letter-spacing: 6px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+.nav-text2{
+    text-decoration: none;
+    color: black;
+    font-size: 1.5rem;
+    margin-left: 20px;
+    letter-spacing: 6px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+
+
+
+#heading{
+
+    display: inline;
+    background-color: rgb(61, 60, 60);
+  
+    color: white;
+    padding-left: 10px;
+    /* padding-right: 10px; */
+    padding-top: 10px;
+    padding-bottom: 10px;
+    opacity: 0.75;
+  
+    
+ 
+}
+
+#first-img{
+    position: relative;
+    
+    letter-spacing: 4px;
+    display: block;
+    font-weight: 400;
+}
+
+#pic-text{
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    color: white;
+    font-weight: 430;
+   
+}
+
+h3{
+
+    font-weight: 400;
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+
+#one{
+
+    display: inline-block;
+    position: relative;
+    width: 400px;
+    margin-left: 12px;
+    margin-top: 20px;
+
+}
+
+#one-pic{
+    background-color: black;
+    color: white;
+    font-size: 25px;
+    
+   padding: 8px 16px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+#two{
+
+    display: inline-block;
+    position: relative;
+    width: 400px;
+    margin-left: 12px;
+
+}
+
+#two-pic{
+    background-color: black;
+    color: white;
+    font-size: 25px;
+   padding: 8px 16px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+#three{
+
+    display: inline-block;
+    position: relative;
+    width: 400px;
+    margin-left: 12px;
+
+}
+
+#three-pic{
+    background-color: black;
+    color: white;
+    font-size: 25px;
+   padding: 8px 16px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+
+#four{
+
+    display: inline-block;
+    position: relative;
+    width: 400px;
+    margin-left: 12px;
+
+}
+
+#four-pic{
+    background-color: black;
+    color: white;
+    font-size: 25px;
+   padding: 8px 16px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+#about{
+    font-weight: 300;
+    margin-top: 40px;
+}
+#about-para{
+    /* line-height: 10px; */
+    font-size: 20px;
+}
+
+.card1{
+
+    display: inline-block ;
+    height: 600px ;
+    width: 350px ;
+    border: 2x solid black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 20px;
+    margin-left: 40px;
+    
+}
+
+#card-img1{
+
+    width: 10px;
+}
+
+.text-opp{
+    opacity: 0.6;
+}
+
+.card-text{
+font-size: 15px;
+line-height: 1.5;
+}
+
+.Contact{
+    width: 300px;
+    height: 30px;
+    background-color: #f1f1f1;
+    border-radius: 4px;
+    font-size: 20px;
+}
+
+
+#contact-text{
+    font-size: 22px;
+}
+
+.Contact-input{
+    width: 90%;
+    height: 35px;
+}
+
+.send-msg{
+    width: 200px;
+    height: 40px;
+    background-color: black;
+    color: white;
+    margin-bottom: 100px;
+}
+
+#footer{
+
+    width: 100%;
+    background-color: black;
+    height: 60px;
+    position: relative;
+}
+
+#insta{
+    text-decoration: none;
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 700px;
+}
+
+
