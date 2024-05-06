@@ -36,10 +36,10 @@
 }
 
 .nav-text{
-margin-left: 860px;
+margin-left: 590px;
 text-decoration: none;
 color: black;
-font-size: 1.5rem;
+font-size: 1.3rem;
 letter-spacing: 8px;
 
 margin-right: 30px;
@@ -51,7 +51,7 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
 .nav-text1{
     text-decoration: none;
     color: black;
-    font-size: 1.4rem;
+    font-size: 1.3rem;
     margin-left: 20px;
     margin-right: 18px;
     letter-spacing: 6px;
@@ -62,7 +62,7 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
 .nav-text2{
     text-decoration: none;
     color: black;
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     margin-left: 20px;
     letter-spacing: 6px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -118,7 +118,7 @@ h3{
 
     display: inline-block;
     position: relative;
-    width: 400px;
+    width: 300px;
     margin-left: 12px;
     margin-top: 20px;
 
@@ -128,8 +128,7 @@ h3{
     background-color: black;
     color: white;
     font-size: 25px;
-    
-   padding: 8px 16px;
+    padding: 8px 16px;
     position: absolute;
     top: 0;
     left: 0;
@@ -139,7 +138,7 @@ h3{
 
     display: inline-block;
     position: relative;
-    width: 400px;
+    width: 300px;
     margin-left: 12px;
 
 }
@@ -158,7 +157,7 @@ h3{
 
     display: inline-block;
     position: relative;
-    width: 400px;
+    width: 300px;
     margin-left: 12px;
 
 }
@@ -178,7 +177,7 @@ h3{
 
     display: inline-block;
     position: relative;
-    width: 400px;
+    width: 300px;
     margin-left: 12px;
 
 }
@@ -194,24 +193,55 @@ h3{
 }
 
 #about{
-    font-weight: 300;
+    font-weight: 200;
     margin-top: 40px;
 }
 #about-para{
     /* line-height: 10px; */
-    font-size: 20px;
+    font-size: 15px;
 }
 
 .card1{
 
     display: inline-block ;
     height: 600px ;
-    width: 350px ;
+    width: 200px ;
     border: 2x solid black;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin-top: 20px;
-    margin-left: 40px;
+  
     
+}
+
+.card2{
+    display: inline-block ;
+    height: 600px ;
+    width: 200px ;
+    border: 2x solid black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 20px;
+    margin-left: 130px;
+}
+  
+
+.card3{
+    display: inline-block ;
+    height: 600px ;
+    width: 200px ;
+    border: 2x solid black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 20px;
+    margin-left: 130px;
+}
+
+.card4{
+    display: inline-block ;
+    height: 600px ;
+    width: 200px ;
+    border: 2x solid black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 20px;
+    margin-left: 130px;
 }
 
 #card-img1{
@@ -267,7 +297,7 @@ line-height: 1.5;
     color: white;
     position: absolute;
     top: 50%;
-    left: 700px;
+    left: 600px;
 }
 
 
